@@ -28,9 +28,17 @@ Make sure you have venv installed.
    ```sh
    git clone https://github.com/MDeanLindsay/Share-A-Sale.git
    ```
-3. Initiate venv.
+3. Create venv.
    ```sh
-   .\.venv\Scripts\activate
+   python3 -m venv .venv
+   ```
+4. Initialize venv.
+   ```sh
+   .\.venv\Scripts\bin\activate
+   ```
+5. Install requirements.
+   ```sh
+   pip install -r requirements.txt
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
