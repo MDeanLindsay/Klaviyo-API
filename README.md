@@ -26,7 +26,7 @@ Make sure you have venv installed.
 1. Get API keys from Klaviyo, create a config.py folder to store as variables.
 2. Clone the repo
    ```sh
-   git clone https://github.com/MDeanLindsay/Share-A-Sale.git
+   git clone https://github.com/MDeanLindsay/Klaviyo-API.git
    ```
 3. Create venv.
    ```sh
