@@ -34,7 +34,7 @@ Make sure you have venv installed.
    ```
 4. Initialize venv.
    ```sh
-   .\.venv\Scripts\bin\activate
+   .\.venv\Scripts\activate
    ```
 5. Install requirements.
    ```sh
