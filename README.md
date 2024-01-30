@@ -30,7 +30,7 @@ Make sure you have venv installed.
    ```
 3. Create venv.
    ```sh
-   python3 -m venv .venv
+   python -m venv .venv
    ```
 4. Initialize venv.
    ```sh
