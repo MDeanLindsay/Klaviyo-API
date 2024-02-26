@@ -3,8 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Creating an on demand jupyter notebook to test Klaviyo's API, get basic transformations handled, before we convert the notebook into a script that can be thrown into dagster.
-
+A jupyter notebook to create a flattened table of email campaign data, with their audiences, tags, and applicable metrics from Klaviyo's API endpoints.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,5 +39,6 @@ Make sure you have venv installed.
    ```sh
    pip install -r requirements.txt
    ```
+6. If applicable, use config_example.py to fill out your own config file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
