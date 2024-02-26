@@ -22,7 +22,7 @@ Make sure you have venv installed.
 
 ### Installation
 
-1. Get API keys from Klaviyo, create a config.py folder to store as variables.
+1. Get API keys from Klaviyo, create a config.py folder to store as variables. Use config_example.py if necessary.
 2. Clone the repo
    ```sh
    git clone https://github.com/MDeanLindsay/Klaviyo-API.git
@@ -39,6 +39,5 @@ Make sure you have venv installed.
    ```sh
    pip install -r requirements.txt
    ```
-6. If applicable, use config_example.py to fill out your own config file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
