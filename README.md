@@ -13,16 +13,13 @@ A jupyter notebook to create a flattened table of email campaign data, with thei
 
 ### Prerequisites
 
-Make sure you have venv installed.
+* Python 3.9.6
 
-* venv
-  ```py
-  pip install venv
-  ```
+* Create a file named config.py file based on config_example.py
 
 ### Installation
 
-1. Get API keys from Klaviyo, create a config.py folder to store as variables. Use config_example.py if necessary.
+1. Get API keys from Klaviyo, fill out config.py.
 2. Clone the repo
    ```sh
    git clone https://github.com/MDeanLindsay/Klaviyo-API.git
