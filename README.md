@@ -19,20 +19,19 @@ A jupyter notebook to create a flattened table of email campaign data, with thei
 
 ### Installation
 
-1. Get API keys from Klaviyo, fill out config.py.
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/MDeanLindsay/Klaviyo-API.git
    ```
-3. Create venv.
+2. Create venv.
    ```sh
    python -m venv .venv
    ```
-4. Initialize venv.
+3. Initialize venv.
    ```sh
    .\.venv\Scripts\activate
    ```
-5. Install requirements.
+4. Install requirements.
    ```sh
    pip install -r requirements.txt
    ```
